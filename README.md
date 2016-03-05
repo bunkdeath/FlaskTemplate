@@ -44,6 +44,12 @@ $ source env/bin/activate
 $ pip install -r requirements.txt
 ```
 
+### Running project
+Clone this repo to your local storage
+```sh
+$ ./manage.py runserver
+```
+
 I suggest you to create virtual environment, if you haven't already used, for your project to prevent packages clash and eventually breaking already present projects.
 
 ### Home URL
